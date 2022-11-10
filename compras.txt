@@ -2,3 +2,5 @@ yerba
 aceite
 arroz
 limones
+leche
+fideos
